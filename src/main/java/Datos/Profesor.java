@@ -5,10 +5,7 @@
  */
 package Datos;
 
-/**
- *
- * @author MONSTER
- */
+
 public class Profesor {
 
     private String nombre;

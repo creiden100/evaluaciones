@@ -1,9 +1,3 @@
-<%-- 
-    Document   : Crear_Examen
-    Created on : 18-may-2018, 23:50:38
-    Author     : MONSTER
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

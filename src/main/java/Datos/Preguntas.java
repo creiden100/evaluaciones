@@ -5,10 +5,7 @@
  */
 package Datos;
 
-/**
- *
- * @author MONSTER
- */
+
 public class Preguntas {
 
     private int Id_Pregunta;

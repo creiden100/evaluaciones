@@ -1,8 +1,3 @@
-<%-- 
-    Document   : Asignar
-    Created on : 17-may-2018, 23:19:19
-    Author     : MONSTER
---%>
 
 <%@page import="java.util.TreeMap"%>
 <%@page import="java.util.Map"%>

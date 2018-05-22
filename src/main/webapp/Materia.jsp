@@ -1,9 +1,3 @@
-<%-- 
-    Document   : Materia
-    Created on : 18-may-2018, 0:48:24
-    Author     : MONSTER
---%>
-
 <%@page import="Dao.Crud_Preguntas"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

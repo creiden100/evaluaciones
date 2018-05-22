@@ -1,9 +1,3 @@
-<%-- 
-    Document   : Profesor
-    Created on : 16-may-2018, 22:28:39
-    Author     : MONSTER
---%>
-
 <%@page import="Dao.Crud_Profesor"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

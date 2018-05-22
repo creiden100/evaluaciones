@@ -1,9 +1,3 @@
-<%-- 
-    Document   : Login
-    Created on : 09-may-2018, 15:19:23
-    Author     : MONSTER
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

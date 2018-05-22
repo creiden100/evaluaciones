@@ -17,10 +17,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- *
- * @author JCBOT
- */
+
 public class Crud_Resultados {
 
     public Map<String, Integer> Map = new HashMap<>();

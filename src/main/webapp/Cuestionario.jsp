@@ -1,9 +1,3 @@
-<%-- 
-    Document   : Cuestionario
-    Created on : 18-may-2018, 2:07:24
-    Author     : MONSTER
---%>
-
 <%@page import="java.util.TreeMap"%>
 <%@page import="java.util.Map"%>
 <%@page import="Dao.Crud_Respuesta"%>

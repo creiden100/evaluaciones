@@ -1,9 +1,3 @@
-<%-- 
-    Document   : Resultados
-    Created on : 18-may-2018, 4:24:24
-    Author     : MONSTER
---%>
-
 <%@page import="Dao.Crud_Resultados"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

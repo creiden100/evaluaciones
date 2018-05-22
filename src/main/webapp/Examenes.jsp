@@ -1,9 +1,3 @@
-<%-- 
-    Document   : Examenes
-    Created on : 18-may-2018, 1:30:10
-    Author     : MONSTER
---%>
-
 <%@page import="Dao.Crud_Usuarios"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

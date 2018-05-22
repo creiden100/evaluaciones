@@ -1,9 +1,3 @@
-<%-- 
-    Document   : Registro
-    Created on : 16-may-2018, 21:59:31
-    Author     : MONSTER
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
