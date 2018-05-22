@@ -96,7 +96,7 @@ public class Asignar_Servlet extends HttpServlet {
                 String examenes=String.valueOf(cadena);
                 Usuarios user = new Usuarios(cedula_profesor, ce.findAll().get(i).getCedula_Estudiante(), examenes);
                 cu.insert(user);
-                request.getRequestDispatcher("/Prosefor.jsp").forward(request, response);
+                request.getRequestDispatcher("/Profesor.jsp").forward(request, response);
 
             }
             //  }
